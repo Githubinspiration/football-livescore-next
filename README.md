@@ -21,7 +21,7 @@ A work in progress FullStack Football Live Score Application built with NextJS, 
 
 ## Screenshot
 
-![](https://github.com/thomasblaymire/live-score/blob/main/home.png)
+![](https://github.com/devally0412/football-livescore-next/blob/main/home.png)
 
 
 ## Frontend 
@@ -61,7 +61,7 @@ The most simple way to run this application is by using npm or yarn.
 
 
 ##### Go into relevant directory:
-`$ cd live-score/api or live-score/client`
+`$ cd football-livescore-next/api or football-livescore-next/client`
 
 ##### Install dependencies
 `$ npm install`
