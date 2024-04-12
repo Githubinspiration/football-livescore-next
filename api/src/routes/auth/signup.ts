@@ -45,7 +45,7 @@ router.post(
         time: Date.now(),
       },
       process.env.JWT_SECRET,
-      { expiresIn: "8h" }
+      { expiresIn: "6h" }
     );
 
     res.cookie("token", token, { httpOnly: true, maxAge: 8 * 60 * 60 });
